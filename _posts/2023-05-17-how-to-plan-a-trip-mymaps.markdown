@@ -4,8 +4,9 @@ title:  "Google My Maps Tutorial"
 date:   2023-05-17 00:00:00 
 categories: tutorials, news, youtube
 ---
+# Google My Maps Tutorial
 
-In my tutorial video I'll teach you an awesome way to plan your upcoming adventures. With Google My Maps, you can create your very own maps and make them unique to your travel plans. I'll guide you through the process step-by-step, from creating a new map to adding cool places you want to visit and even customizing the routes you'll take. You'll also learn how to collaborate with others, making it easier to plan trips with friends or family. Google My Maps is an incredible tool that will help you stay organized and make your trips unforgettable. Get ready to become a travel planning pro!
+In my tutorial video I'll teach you an awesome way to plan your upcoming adventures. With **Google My Maps**, you can create your very own maps and make them unique to your travel plans. I'll guide you through the process step-by-step, from creating a new map to adding cool places you want to visit and even customizing the routes you'll take. You'll also learn how to collaborate with others, making it easier to plan trips with friends or family. Google My Maps is an incredible tool that will help you stay organized and make your trips unforgettable. Get ready to become a travel planning pro!
 
 
 
