@@ -1,14 +1,15 @@
 ---
 layout: post
 title:  "[video] Wildcat's Revenge vs Wildcat's Revenge!"
-date:   2023-02-05 00:47:00 
+date:   2023-05-05 00:47:00 
 categories: video, youtube, coaster_comparion, hersheypark
-image: /img/wcr.png
+image: /img/wcr.png// 
+background: '/img/wcr.png'
 
 ---
-![My helpful screenshot](/img/wcr.png)
+<!--![My helpful screenshot](/img/wcr.png) -->
 
-With the new POV of Wildcat's Revenge, I thought it would be fun to compare it to Amusement Insider's version! How accurate was it compared to the official version? See for yourself!
+I stumbled upon a new POV video of **Wildcat's Revenge**, and it got me thinking about comparing it to Amusement Insider's version. I wanted to find out how accurate the video was compared to the official ride experience. If you're curious, let's dive in and see for ourselves!
 
 
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;">
