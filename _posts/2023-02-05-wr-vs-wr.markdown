@@ -7,6 +7,8 @@ image: /img/wcr.png//
 background: '/img/wcr.png'
 
 ---
+
+<header style="background-color: blue;"></header>
 <!--![My helpful screenshot](/img/wcr.png) -->
 
 I stumbled upon a new POV video of **Wildcat's Revenge**, and it got me thinking about comparing it to Amusement Insider's version. I wanted to find out how accurate the video was compared to the official ride experience. If you're curious, let's dive in and see for ourselves!
